@@ -1,0 +1,2 @@
+body{margin:0;padding:0;box-sizing:border-box}.snake{grid-template-columns:repeat(auto-fill,minmax(300px,1fr));max-width:1199px}.snake,.snake__part{display:grid;justify-content:center}.snake__part{font-family:Arial,Helvetica,sans-serif;font-size:100px;align-items:center;height:300px;color:#fff}.snake__part--1{background-color:red}.snake__part--2{background-color:#c00}.snake__part--3{background-color:#900}.snake__part--4{background-color:#600}.snake__part--5{background-color:#300}.snake__part--6{background-color:#000}
+/*# sourceMappingURL=main.d419469e.css.map */
